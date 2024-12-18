@@ -1,0 +1,9 @@
+yfinance
+tqdm
+pandas
+numpy
+matplotlib
+hmmlearn
+scikit-learn
+tqdm
+docopt
